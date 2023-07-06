@@ -22,6 +22,9 @@ INSTRUCTIONS and RULES:
 *****************************************************
 RELEASES:
 
+v1.3 - 7.7.2023.
+- Log.txt file added
+
 -----------------------------------------------------
 v1.2 - 6.7.2023.
 - Sounds added on target pickup and player death
