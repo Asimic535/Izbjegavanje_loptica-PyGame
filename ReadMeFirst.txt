@@ -21,6 +21,11 @@ INSTRUCTIONS and RULES:
 
 *****************************************************
 RELEASES:
+
+v1.5 - 7.7.2023.
+- High score system added
+
+-----------------------------------------------------
 v1.4 - 7.7.2023.
 - Main menu and background song added
 
